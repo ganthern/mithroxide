@@ -1,0 +1,12 @@
+[package]
+name = "mithroxide"
+version = "0.1.0"
+authors = ["ganthern <nils.ganther@stud.hs-hannover.de>"]
+license = "MIT"
+readme = "README.md"
+description = "mithroxide"
+repository = "https://github.com/ganthern/mithroxide"
+homepage = "https://github.com/ganthern/mithroxide"
+edition = "2018"
+
+[dependencies]
